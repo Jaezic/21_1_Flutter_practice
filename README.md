@@ -15,3 +15,6 @@
 - Navigator 클래스로 받아 PageRoutBuilder 위젯으로 Route 생성 (paramater 전달 가능)
 - Hero 위젯을 이용해 이미지 애니메이션 추가
 - Defining Routing at application level
+- BoxConstraints 클래스를 이용해 확장
+- Image.network 로 이미지 가져오기
+- Vertical[y] Gradient 이용한 사진 연결 (Toolbar는 horizon[x])
