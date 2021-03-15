@@ -14,3 +14,4 @@
 - GestureDetector 위젯을 통해 phyical interactions 구현
 - Navigator 클래스로 받아 PageRoutBuilder 위젯으로 Route 생성 (paramater 전달 가능)
 - Hero 위젯을 이용해 이미지 애니메이션 추가
+- Defining Routing at application level
