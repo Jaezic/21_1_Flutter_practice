@@ -6,9 +6,10 @@ class Planet {
   final String gravity;
   final String description;
   final String image;
+  final String picture;
 
   const Planet({this.id, this.name, this.location, this.distance, this.gravity,
-    this.description, this.image});
+    this.description, this.image, this.picture});
 }
 
 List<Planet> planets = [
@@ -20,6 +21,8 @@ List<Planet> planets = [
     gravity: "변동 없음",
     description: "Lorem ipsum...",
     image: "assets/img/lol.png",
+    picture : "assets/img/lolback.jpg",
+    //picture :"URl: , Image.network
   ),
   const Planet(
     id: "2",
@@ -29,6 +32,7 @@ List<Planet> planets = [
     gravity: "변동 없음",
     description: "Lorem ipsum...",
     image: "assets/img/sa.png",
+    picture: "",
   ),
   const Planet(
     id: "3",
@@ -38,6 +42,7 @@ List<Planet> planets = [
     gravity: "변동 없음",
     description: "Lorem ipsum...",
     image: "assets/img/battle.png",
+    picture: "",
   ),
   const Planet(
     id: "4",
@@ -47,6 +52,7 @@ List<Planet> planets = [
     gravity: "변동 없음",
     description: "Lorem ipsum...",
     image: "assets/img/fifa.ico",
+    picture: "",
   ),
   const Planet(
     id: "5",
@@ -56,5 +62,6 @@ List<Planet> planets = [
     gravity: "1위 증가",
     description: "Lorem ipsum...",
     image: "assets/img/overwatch.png",
+    picture: "",
   ),
 ];
