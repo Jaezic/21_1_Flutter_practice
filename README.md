@@ -11,4 +11,5 @@
 
 ### 20210315 학습내역(아래)
 #### flutter_study_03
--
+- GestureDetector 위젯을 통해 phyical interactions 구현
+- Navigator 클래스로 받아 PageRoutBuilder 위젯으로 Route 생성 (paramater 전달 가능)
