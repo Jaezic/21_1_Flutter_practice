@@ -21,4 +21,4 @@
 
 ### 20210316 학습내역(아래)
 #### flutter_study_04
-- 
+- widget이라는 틀안에 container를 입력할 수 있고, container안에 row, colum 또한, widget을 넣을 수 있음. 그 안에 container을 또 삽입해도 됨
