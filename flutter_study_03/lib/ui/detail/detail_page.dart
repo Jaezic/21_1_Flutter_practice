@@ -16,7 +16,7 @@ class DetailPage extends StatelessWidget{
           children: <Widget> [
             _getBackground(),
             _getGradient(),
-            //_getContext(),
+            _getContext(),
            // _getToolbar(context),
           ],
         )
@@ -50,5 +50,9 @@ class DetailPage extends StatelessWidget{
         ),
       ),
     );
+  }
+
+  Widget _getContext(){
+
   }
 }
