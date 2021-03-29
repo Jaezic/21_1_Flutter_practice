@@ -18,3 +18,7 @@
 - BoxConstraints 클래스를 이용해 확장
 - Image.network 로 이미지 가져오기
 - Vertical[y] Gradient 이용한 사진 연결 (Toolbar는 horizon[x])
+
+### 20210316 학습내역(아래)
+#### flutter_study_04
+- widget안에 또 다른 widget을 넣을 수 있음 (child, children property 을 통해)
